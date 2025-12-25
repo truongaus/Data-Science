@@ -1,3 +1,14 @@
+# ==============================================================================
+# COPYRIGHT NOTICE
+# ==============================================================================
+# Project: Truss Analysis System (Tính toán ứng lực hệ giàn)
+# Copyright (c) 2025 Nguyễn Mạnh Trường. All rights reserved.
+#
+# This code is proprietary and confidential.
+# Unauthorized copying of this file, via any medium is strictly prohibited.
+#
+# Written by Nguyễn Mạnh Trường, December 2025.
+# ==============================================================================
 import sys
 import math
 import numpy as np
@@ -494,3 +505,4 @@ if __name__ == "__main__":
     window = TrussApp()
     window.show()
     sys.exit(app.exec())
+
