@@ -1,10 +1,4 @@
-## ⚠️ License & Copyright
-
-**Copyright (c) 2025 Nguyễn Mạnh Trường**
-
-All rights reserved. This project and its contents are proprietary.
-You may view the code for educational purposes or portfolio evaluation,
-but you are **NOT** allowed to:
-- Copy, modify, or distribute this code.
-- Use this code for commercial purposes.
-- Use this code as your own assignment/project.
+## License
+This project is licensed under the terms of the GNU General Public License v3.0 (GPLv3).
+You are free to use, modify, and distribute this software, but you must keep the source code open.
+See the [LICENSE](LICENSE) file for details.
